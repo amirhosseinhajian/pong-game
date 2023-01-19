@@ -1,2 +1,9 @@
-# pong-game
-simple pong game with python and arcade library.
+# PONG Game
+<img src="images/pong.gif">
+
+## Project setup
+```
+pip install arcade
+```
+## Game keys and controls
+Mouse Motion: move rocket<br />
